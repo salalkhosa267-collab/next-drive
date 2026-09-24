@@ -1,0 +1,6 @@
+{
+  "name": "Next Drive Luxury Car Rental",
+  "description": "Experience premium luxury and performance cars in Dubai with Next Drive Luxury Car Rental. Explore the Lamborghini Urus and Audi RS Q8 and enquire about your next drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
